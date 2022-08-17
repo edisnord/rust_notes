@@ -1,4 +1,4 @@
-# Notes from the book The Rust Programming Language
+# Notes from The Rust Programming Language book
 ## Table of contents
 1. Chapters 1-3
     1. [Chapter 1](1/1.md)
